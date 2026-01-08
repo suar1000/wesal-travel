@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wesal.yourdomain.com/sitemap.xml
+
+# منع الوصول لملفات معينة
+Disallow: /sw.js
+Disallow: /.git/
+Disallow: /.do/
